@@ -1,2 +1,2 @@
-# terraform-infra-prod
-$(each.value.lang) Terraform code
+# This prod terraform repository is for infra developers.
+The infra was last modified by: Luthfur Rahman
